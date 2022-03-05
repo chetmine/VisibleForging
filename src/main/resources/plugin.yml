@@ -1,0 +1,5 @@
+name: VisibleForging
+version: '${project.version}'
+main: test.test.Test
+api-version: 1.18
+description: What you want to see there?
